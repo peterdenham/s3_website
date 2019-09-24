@@ -2,6 +2,10 @@
 
 This project uses [Semantic Versioning](http://semver.org).
 
+## 4.0.0
+
+Add support for Java 11
+
 ## 3.4.0
 
 * Add support for default credentials providers in the `s3_website cfg create`
